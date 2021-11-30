@@ -1,0 +1,55 @@
+body {
+    background-image: url(./img/background2.jpg);
+}
+
+#profile {
+    background: #8b9cb6;
+    background-image: url(./img/);
+    background-position: center bottom;
+    background-repeat: repeat-x;
+    overflow: hidden;
+}
+
+.about {
+    float: left;
+    margin-top: 50px;
+    width: 490px;
+    margin-left: 50px;
+}
+
+.about .photo-inner {
+    width: 400px;
+    height: 400px;
+    padding: 50px 30px 200px 50px;
+    float: center
+}
+
+.about h1 {
+    font-weight: 900;
+    color: white;
+    line-height: 35px;
+    margin-top: -232px;
+    margin-left: 0px;
+    float: inline-start;
+}
+
+.about h3 {
+    margin-top: 5px;
+    font-size: 22px;
+    color: white;
+    line-height: 18px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.personal-info {
+    float: right
+}
+
+.about p {
+    font-size: 14px;
+    margin-top: 15px;
+    color: white;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
