@@ -24,6 +24,8 @@ body {
 
 .photo-inner>img {
     border-radius: 50%;
+    margin: auto;
+    padding: 20px;
 }
 
 
@@ -109,7 +111,11 @@ body {
 }
 
 .tabs li.active {
-    background: url() no-repeat
+    background: url(./img/tab-hover.png) no-repeat
+}
+
+.tabs li.active a {
+    color: #cf455c
 }
 
 header {
