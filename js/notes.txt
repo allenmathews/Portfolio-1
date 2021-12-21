@@ -1,0 +1,39 @@
+1 framework and 1 language to get a job first
+
+- front-end (javascript & react)
+    * we do want the portfolio to be a react app (good job)
+    * design doesnt have to be INCREDIBLE, but because you're front-end it has to be decent
+    * designer = UI, front-end = UX
+
+    * 3 paths
+        1. Front-end Designer (not you) html/css/jquery
+        2. JavaScript engineer (this is NO CSS / HTML - heavy algorithm stuff heavy JS)
+        3. Front-end application developer (simple mixture of the above 2)
+
+    * easiest beginner path is #3 -> so the movie app you're building is the perfect #3 aligned #3
+
+Next Actions:
+1. We need a portfolio app that is SIMPLE NOT INCREDIBLE 
+    A. Buidl this portfolio following tutorial https://www.freecodecamp.org/news/build-portfolio-website-react/ 
+        Simple protocol:
+            - Close all other code and windows even all other web browser 
+            - Open new folder in visual studio for this code and focus and just do this 1 thing
+            - Set micro goals of 15m, 20m focus simplicity then if you achieve it a little break of 5-10m break (catch: not allowed to do toxic behavior)
+                * expand that if its too easy (expand to 45m, expand to 1h, or etc)
+        Tutorial following protocol:
+            - Never copy paste - open code on one monitor open tutorial on other
+            - Literally write by hand every word of the tutorial
+            - Even if you dont understand the code, keep going (if you do this enough your subconscious brain will create a network of nodes (assuming baseline level of intelligence) and then after a few tutorials you literally get a momenty of INSIGHT "ah omg I undertstand that piece of code" (literally goes from the bottom UP to your coonscious brain)
+        Why do I make you do this tutorial protocol?
+            - Learning top down is the most difficult thing ever (conscious to subconscious)
+            - Learning bottom up is the easiest thing ever (subconscious to conscious)
+            
+
+2. We need the movie app ready to deploy looking SOMEWHAT DECENT (after the tutorial for portfolio)
+
+The most important study technology ever made is:
+1. Gradients (step by step by step) so never learn more than 1 step ahead of where u are now
+    - The portfolio you'ree doing now is about 4 steps - 8 steps ahead
+
+
+Complexity fallacy (huge prtoblem in the brain b/c entropy -> 2nd law of thermodynamics)
